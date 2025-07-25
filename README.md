@@ -12,7 +12,7 @@
 
 
 
-## Tecnologias
+## SKILLS
 <div style="display:flex gap:4">
 
 
