@@ -16,7 +16,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![WebSockets](https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socket.io&logoColor=white)
-![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### 🎨 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
