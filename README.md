@@ -1,6 +1,5 @@
 ## 🚀 Olá! Eu sou Joanderson Luan
 
-Sou desenvolvedor full stack apaixonado por transformar ideias em soluções funcionais. Amo criar, aprender, ensinar e empreender — seja com código, loja de eletrônicos ou vídeos de comédia na internet 😄.
 
 ---
 
